@@ -7,18 +7,81 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040EEBEC1E587E6300E43DA4 /* ENSideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBEA1E587E6300E43DA4 /* ENSideMenu.swift */; };
+		040EEBED1E587E6300E43DA4 /* ENSideMenuNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBEB1E587E6300E43DA4 /* ENSideMenuNavigationController.swift */; };
+		040EEBEF1E58827D00E43DA4 /* NewsNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBEE1E58827D00E43DA4 /* NewsNavigationController.swift */; };
+		040EEBF11E5882CC00E43DA4 /* NewsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBF01E5882CC00E43DA4 /* NewsTableViewController.swift */; };
+		040EEBF31E5B103200E43DA4 /* ContentNewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBF21E5B103200E43DA4 /* ContentNewsViewController.swift */; };
+		040EEBF71E5C3CC200E43DA4 /* Explore_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBF61E5C3CC200E43DA4 /* Explore_ViewController.swift */; };
+		040EEBF91E5C3D2400E43DA4 /* ExploreNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBF81E5C3D2400E43DA4 /* ExploreNavigationController.swift */; };
+		040EEBFB1E5C3D4300E43DA4 /* ExploreTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EEBFA1E5C3D4300E43DA4 /* ExploreTableViewController.swift */; };
+		043A84771E5D82E0000EB6A1 /* AirlinesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84761E5D82E0000EB6A1 /* AirlinesTableViewController.swift */; };
+		043A84791E5D82FA000EB6A1 /* RentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84781E5D82FA000EB6A1 /* RentViewController.swift */; };
+		043A847C1E5DD713000EB6A1 /* Destination_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A847B1E5DD713000EB6A1 /* Destination_ViewController.swift */; };
+		043A847E1E5DD739000EB6A1 /* DestinationNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A847D1E5DD739000EB6A1 /* DestinationNavigationViewController.swift */; };
+		043A84801E5DD753000EB6A1 /* DestinationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A847F1E5DD753000EB6A1 /* DestinationTableViewController.swift */; };
+		043A84831E5DD8AE000EB6A1 /* ServicesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84821E5DD8AE000EB6A1 /* ServicesTableViewController.swift */; };
+		043A84851E5DD8C8000EB6A1 /* Services_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84841E5DD8C8000EB6A1 /* Services_ViewController.swift */; };
+		043A84871E5DD8F9000EB6A1 /* ServicesNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84861E5DD8F9000EB6A1 /* ServicesNavigationController.swift */; };
+		043A848B1E5DDBC1000EB6A1 /* InfoNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A848A1E5DDBC1000EB6A1 /* InfoNavigationController.swift */; };
+		043A848D1E5DDBD4000EB6A1 /* Info_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A848C1E5DDBD4000EB6A1 /* Info_ViewController.swift */; };
+		043A848F1E5DDBF3000EB6A1 /* InfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A848E1E5DDBF3000EB6A1 /* InfoTableViewController.swift */; };
+		043A84911E5F2778000EB6A1 /* DestinationsItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84901E5F2778000EB6A1 /* DestinationsItemTableViewController.swift */; };
+		043A84931E5F27A8000EB6A1 /* PublicationsItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043A84921E5F27A8000EB6A1 /* PublicationsItemTableViewController.swift */; };
+		044DEC2C1E3F8C8700A244EF /* News_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044DEC2B1E3F8C8700A244EF /* News_ViewController.swift */; };
+		044DEC2E1E43707A00A244EF /* FullNewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044DEC2D1E43707A00A244EF /* FullNewsViewController.swift */; };
+		0454450A1E51C6CD00B76674 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0454450C1E51C6CD00B76674 /* Main.storyboard */; };
+		0454451E1E52012C00B76674 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 045445201E52012C00B76674 /* Localizable.strings */; };
+		045445241E52F90900B76674 /* Localisator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045445231E52F90900B76674 /* Localisator.swift */; };
+		0468C4751E2F7A950093E6A3 /* FlightInfo_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0468C4741E2F7A950093E6A3 /* FlightInfo_ViewController.swift */; };
+		0468C4771E2FAA790093E6A3 /* Arrival_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0468C4761E2FAA790093E6A3 /* Arrival_ViewController.swift */; };
+		0468C4791E2FAB600093E6A3 /* Departure_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0468C4781E2FAB600093E6A3 /* Departure_ViewController.swift */; };
 		04B4CB6C1BCFB13C00320ED3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4CB6B1BCFB13C00320ED3 /* AppDelegate.swift */; };
 		04B4CB6E1BCFB13C00320ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4CB6D1BCFB13C00320ED3 /* ViewController.swift */; };
-		04B4CB711BCFB13C00320ED3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B4CB6F1BCFB13C00320ED3 /* Main.storyboard */; };
 		04B4CB731BCFB13C00320ED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4CB721BCFB13C00320ED3 /* Assets.xcassets */; };
 		04B4CB761BCFB13C00320ED3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B4CB741BCFB13C00320ED3 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		040EEBEA1E587E6300E43DA4 /* ENSideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENSideMenu.swift; sourceTree = "<group>"; };
+		040EEBEB1E587E6300E43DA4 /* ENSideMenuNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENSideMenuNavigationController.swift; sourceTree = "<group>"; };
+		040EEBEE1E58827D00E43DA4 /* NewsNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsNavigationController.swift; sourceTree = "<group>"; };
+		040EEBF01E5882CC00E43DA4 /* NewsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsTableViewController.swift; sourceTree = "<group>"; };
+		040EEBF21E5B103200E43DA4 /* ContentNewsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentNewsViewController.swift; sourceTree = "<group>"; };
+		040EEBF61E5C3CC200E43DA4 /* Explore_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Explore_ViewController.swift; sourceTree = "<group>"; };
+		040EEBF81E5C3D2400E43DA4 /* ExploreNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreNavigationController.swift; sourceTree = "<group>"; };
+		040EEBFA1E5C3D4300E43DA4 /* ExploreTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreTableViewController.swift; sourceTree = "<group>"; };
+		043A84761E5D82E0000EB6A1 /* AirlinesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirlinesTableViewController.swift; sourceTree = "<group>"; };
+		043A84781E5D82FA000EB6A1 /* RentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RentViewController.swift; sourceTree = "<group>"; };
+		043A847B1E5DD713000EB6A1 /* Destination_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Destination_ViewController.swift; sourceTree = "<group>"; };
+		043A847D1E5DD739000EB6A1 /* DestinationNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationNavigationViewController.swift; sourceTree = "<group>"; };
+		043A847F1E5DD753000EB6A1 /* DestinationTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationTableViewController.swift; sourceTree = "<group>"; };
+		043A84821E5DD8AE000EB6A1 /* ServicesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesTableViewController.swift; sourceTree = "<group>"; };
+		043A84841E5DD8C8000EB6A1 /* Services_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Services_ViewController.swift; sourceTree = "<group>"; };
+		043A84861E5DD8F9000EB6A1 /* ServicesNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesNavigationController.swift; sourceTree = "<group>"; };
+		043A848A1E5DDBC1000EB6A1 /* InfoNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoNavigationController.swift; sourceTree = "<group>"; };
+		043A848C1E5DDBD4000EB6A1 /* Info_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Info_ViewController.swift; sourceTree = "<group>"; };
+		043A848E1E5DDBF3000EB6A1 /* InfoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoTableViewController.swift; sourceTree = "<group>"; };
+		043A84901E5F2778000EB6A1 /* DestinationsItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationsItemTableViewController.swift; sourceTree = "<group>"; };
+		043A84921E5F27A8000EB6A1 /* PublicationsItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PublicationsItemTableViewController.swift; sourceTree = "<group>"; };
+		044DEC2B1E3F8C8700A244EF /* News_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = News_ViewController.swift; sourceTree = "<group>"; };
+		044DEC2D1E43707A00A244EF /* FullNewsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullNewsViewController.swift; sourceTree = "<group>"; };
+		0454450B1E51C6CD00B76674 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0454450E1E51C6EB00B76674 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		0454450F1E51E7C200B76674 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		045445101E51E7C200B76674 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/Main.strings; sourceTree = "<group>"; };
+		045445111E51E7F600B76674 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		045445121E51E7F600B76674 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Main.strings; sourceTree = "<group>"; };
+		0454451F1E52012C00B76674 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		045445211E52012E00B76674 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/Localizable.strings; sourceTree = "<group>"; };
+		045445221E52012F00B76674 /* sr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sr; path = sr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		045445231E52F90900B76674 /* Localisator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localisator.swift; sourceTree = "<group>"; };
+		0468C4741E2F7A950093E6A3 /* FlightInfo_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FlightInfo_ViewController.swift; path = ../FlightInfo_ViewController.swift; sourceTree = "<group>"; };
+		0468C4761E2FAA790093E6A3 /* Arrival_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arrival_ViewController.swift; sourceTree = "<group>"; };
+		0468C4781E2FAB600093E6A3 /* Departure_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Departure_ViewController.swift; sourceTree = "<group>"; };
 		04B4CB681BCFB13C00320ED3 /* PristinaInternationalAirport.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PristinaInternationalAirport.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B4CB6B1BCFB13C00320ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04B4CB6D1BCFB13C00320ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		04B4CB701BCFB13C00320ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04B4CB721BCFB13C00320ED3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B4CB751BCFB13C00320ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04B4CB771BCFB13C00320ED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -35,6 +98,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		040EEBF41E5C3A6800E43DA4 /* NewsScene */ = {
+			isa = PBXGroup;
+			children = (
+				044DEC2B1E3F8C8700A244EF /* News_ViewController.swift */,
+				040EEBEE1E58827D00E43DA4 /* NewsNavigationController.swift */,
+				040EEBF01E5882CC00E43DA4 /* NewsTableViewController.swift */,
+				044DEC2D1E43707A00A244EF /* FullNewsViewController.swift */,
+				040EEBF21E5B103200E43DA4 /* ContentNewsViewController.swift */,
+			);
+			name = NewsScene;
+			sourceTree = "<group>";
+		};
+		040EEBF51E5C3BF000E43DA4 /* ExploreScene */ = {
+			isa = PBXGroup;
+			children = (
+				040EEBF61E5C3CC200E43DA4 /* Explore_ViewController.swift */,
+				040EEBF81E5C3D2400E43DA4 /* ExploreNavigationController.swift */,
+				040EEBFA1E5C3D4300E43DA4 /* ExploreTableViewController.swift */,
+				043A84761E5D82E0000EB6A1 /* AirlinesTableViewController.swift */,
+				043A84781E5D82FA000EB6A1 /* RentViewController.swift */,
+			);
+			name = ExploreScene;
+			sourceTree = "<group>";
+		};
+		043A847A1E5DD6F2000EB6A1 /* DestinationScene */ = {
+			isa = PBXGroup;
+			children = (
+				043A847B1E5DD713000EB6A1 /* Destination_ViewController.swift */,
+				043A847D1E5DD739000EB6A1 /* DestinationNavigationViewController.swift */,
+				043A847F1E5DD753000EB6A1 /* DestinationTableViewController.swift */,
+				043A84901E5F2778000EB6A1 /* DestinationsItemTableViewController.swift */,
+				043A84921E5F27A8000EB6A1 /* PublicationsItemTableViewController.swift */,
+			);
+			name = DestinationScene;
+			sourceTree = "<group>";
+		};
+		043A84811E5DD889000EB6A1 /* ServicesScene */ = {
+			isa = PBXGroup;
+			children = (
+				043A84821E5DD8AE000EB6A1 /* ServicesTableViewController.swift */,
+				043A84841E5DD8C8000EB6A1 /* Services_ViewController.swift */,
+				043A84861E5DD8F9000EB6A1 /* ServicesNavigationController.swift */,
+			);
+			name = ServicesScene;
+			sourceTree = "<group>";
+		};
+		043A84881E5DDB2A000EB6A1 /* FlightInfoScene */ = {
+			isa = PBXGroup;
+			children = (
+				0468C4741E2F7A950093E6A3 /* FlightInfo_ViewController.swift */,
+				0468C4761E2FAA790093E6A3 /* Arrival_ViewController.swift */,
+				0468C4781E2FAB600093E6A3 /* Departure_ViewController.swift */,
+			);
+			name = FlightInfoScene;
+			sourceTree = "<group>";
+		};
+		043A84891E5DDB92000EB6A1 /* InfoScene */ = {
+			isa = PBXGroup;
+			children = (
+				043A848A1E5DDBC1000EB6A1 /* InfoNavigationController.swift */,
+				043A848C1E5DDBD4000EB6A1 /* Info_ViewController.swift */,
+				043A848E1E5DDBF3000EB6A1 /* InfoTableViewController.swift */,
+			);
+			name = InfoScene;
+			sourceTree = "<group>";
+		};
 		04B4CB5F1BCFB13C00320ED3 = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +183,22 @@
 		04B4CB6A1BCFB13C00320ED3 /* PristinaInternationalAirport */ = {
 			isa = PBXGroup;
 			children = (
+				043A84881E5DDB2A000EB6A1 /* FlightInfoScene */,
+				040EEBF51E5C3BF000E43DA4 /* ExploreScene */,
+				043A847A1E5DD6F2000EB6A1 /* DestinationScene */,
+				043A84811E5DD889000EB6A1 /* ServicesScene */,
+				040EEBF41E5C3A6800E43DA4 /* NewsScene */,
+				043A84891E5DDB92000EB6A1 /* InfoScene */,
 				04B4CB6B1BCFB13C00320ED3 /* AppDelegate.swift */,
 				04B4CB6D1BCFB13C00320ED3 /* ViewController.swift */,
-				04B4CB6F1BCFB13C00320ED3 /* Main.storyboard */,
 				04B4CB721BCFB13C00320ED3 /* Assets.xcassets */,
 				04B4CB741BCFB13C00320ED3 /* LaunchScreen.storyboard */,
+				0454450C1E51C6CD00B76674 /* Main.storyboard */,
 				04B4CB771BCFB13C00320ED3 /* Info.plist */,
+				045445231E52F90900B76674 /* Localisator.swift */,
+				045445201E52012C00B76674 /* Localizable.strings */,
+				040EEBEA1E587E6300E43DA4 /* ENSideMenu.swift */,
+				040EEBEB1E587E6300E43DA4 /* ENSideMenuNavigationController.swift */,
 			);
 			path = PristinaInternationalAirport;
 			sourceTree = "<group>";
@@ -90,11 +229,15 @@
 		04B4CB601BCFB13C00320ED3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					button,
+				);
 				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = PIA;
 				TargetAttributes = {
 					04B4CB671BCFB13C00320ED3 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 9NWEZVS2A9;
 					};
 				};
 			};
@@ -105,6 +248,8 @@
 			knownRegions = (
 				en,
 				Base,
+				sq,
+				sr,
 			);
 			mainGroup = 04B4CB5F1BCFB13C00320ED3;
 			productRefGroup = 04B4CB691BCFB13C00320ED3 /* Products */;
@@ -121,9 +266,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0454451E1E52012C00B76674 /* Localizable.strings in Resources */,
+				0454450A1E51C6CD00B76674 /* Main.storyboard in Resources */,
 				04B4CB761BCFB13C00320ED3 /* LaunchScreen.storyboard in Resources */,
 				04B4CB731BCFB13C00320ED3 /* Assets.xcassets in Resources */,
-				04B4CB711BCFB13C00320ED3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,25 +281,67 @@
 			buildActionMask = 2147483647;
 			files = (
 				04B4CB6E1BCFB13C00320ED3 /* ViewController.swift in Sources */,
+				043A84791E5D82FA000EB6A1 /* RentViewController.swift in Sources */,
+				043A848D1E5DDBD4000EB6A1 /* Info_ViewController.swift in Sources */,
+				045445241E52F90900B76674 /* Localisator.swift in Sources */,
+				043A847C1E5DD713000EB6A1 /* Destination_ViewController.swift in Sources */,
+				040EEBFB1E5C3D4300E43DA4 /* ExploreTableViewController.swift in Sources */,
+				043A84931E5F27A8000EB6A1 /* PublicationsItemTableViewController.swift in Sources */,
+				043A847E1E5DD739000EB6A1 /* DestinationNavigationViewController.swift in Sources */,
+				040EEBF71E5C3CC200E43DA4 /* Explore_ViewController.swift in Sources */,
+				043A84851E5DD8C8000EB6A1 /* Services_ViewController.swift in Sources */,
+				0468C4771E2FAA790093E6A3 /* Arrival_ViewController.swift in Sources */,
+				043A84871E5DD8F9000EB6A1 /* ServicesNavigationController.swift in Sources */,
+				040EEBF31E5B103200E43DA4 /* ContentNewsViewController.swift in Sources */,
+				044DEC2E1E43707A00A244EF /* FullNewsViewController.swift in Sources */,
+				040EEBEF1E58827D00E43DA4 /* NewsNavigationController.swift in Sources */,
+				040EEBF91E5C3D2400E43DA4 /* ExploreNavigationController.swift in Sources */,
+				0468C4791E2FAB600093E6A3 /* Departure_ViewController.swift in Sources */,
 				04B4CB6C1BCFB13C00320ED3 /* AppDelegate.swift in Sources */,
+				040EEBEC1E587E6300E43DA4 /* ENSideMenu.swift in Sources */,
+				043A848B1E5DDBC1000EB6A1 /* InfoNavigationController.swift in Sources */,
+				043A84801E5DD753000EB6A1 /* DestinationTableViewController.swift in Sources */,
+				040EEBF11E5882CC00E43DA4 /* NewsTableViewController.swift in Sources */,
+				043A848F1E5DDBF3000EB6A1 /* InfoTableViewController.swift in Sources */,
+				043A84831E5DD8AE000EB6A1 /* ServicesTableViewController.swift in Sources */,
+				0468C4751E2F7A950093E6A3 /* FlightInfo_ViewController.swift in Sources */,
+				040EEBED1E587E6300E43DA4 /* ENSideMenuNavigationController.swift in Sources */,
+				044DEC2C1E3F8C8700A244EF /* News_ViewController.swift in Sources */,
+				043A84771E5D82E0000EB6A1 /* AirlinesTableViewController.swift in Sources */,
+				043A84911E5F2778000EB6A1 /* DestinationsItemTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		04B4CB6F1BCFB13C00320ED3 /* Main.storyboard */ = {
+		0454450C1E51C6CD00B76674 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				04B4CB701BCFB13C00320ED3 /* Base */,
+				0454450B1E51C6CD00B76674 /* Base */,
+				0454450E1E51C6EB00B76674 /* en */,
+				045445101E51E7C200B76674 /* sq */,
+				045445121E51E7F600B76674 /* sr */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		045445201E52012C00B76674 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0454451F1E52012C00B76674 /* en */,
+				045445211E52012E00B76674 /* sq */,
+				045445221E52012F00B76674 /* sr */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 		04B4CB741BCFB13C00320ED3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				04B4CB751BCFB13C00320ED3 /* Base */,
+				0454450F1E51E7C200B76674 /* sq */,
+				045445111E51E7F600B76674 /* sr */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -248,10 +436,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PristinaInternationalAirport/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = aero.PristinaInternationalAirport;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -259,10 +451,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PristinaInternationalAirport/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = aero.PristinaInternationalAirport;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -285,6 +481,7 @@
 				04B4CB7C1BCFB13C00320ED3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

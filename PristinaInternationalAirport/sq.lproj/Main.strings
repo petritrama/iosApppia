@@ -1,0 +1,226 @@
+
+/* Class = "UIButton"; normalTitle = "Information"; ObjectID = "02o-Gy-8TC"; */
+"02o-Gy-8TC.normalTitle" = "Information";
+
+/* Class = "UILabel"; text = "Services"; ObjectID = "0Xe-4g-zVJ"; */
+"0Xe-4g-zVJ.text" = "Services";
+
+/* Class = "UIButton"; normalTitle = "Flight Info"; ObjectID = "0dF-6T-Fiy"; */
+"0dF-6T-Fiy.normalTitle" = "Fluturimet";
+
+/* Class = "UIButton"; normalTitle = "Services"; ObjectID = "0zE-Xf-oDp"; */
+"0zE-Xf-oDp.normalTitle" = "Services";
+
+/* Class = "UIViewController"; title = "Deperature Info"; ObjectID = "12L-On-GRX"; */
+"12L-On-GRX.title" = "Deperature Info";
+
+/* Class = "UILabel"; text = "Click to read the full story"; ObjectID = "1OA-DR-fhY"; */
+"1OA-DR-fhY.text" = "Click to read the full story";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "3co-Oe-qWS"; */
+"3co-Oe-qWS.text" = "Schedule";
+
+/* Class = "UIViewController"; title = "Destinations"; ObjectID = "4To-3b-jPR"; */
+"4To-3b-jPR.title" = "Destinations";
+
+/* Class = "UITextView"; text = "Prishtina International Airport \"Adem Jashari\" is being managed and operated by a consortium Limak and Aeroports de Lyon. The consortium Limak and Aeroports de Lyon took the management and operation of the airport after a Public Private Partnership Agreement signed in August 12. 2010."; ObjectID = "6Je-zp-cns"; */
+"6Je-zp-cns.text" = "Prishtina International Airport \"Adem Jashari\" is being managed and operated by a consortium Limak and Aeroports de Lyon. The consortium Limak and Aeroports de Lyon took the management and operation of the airport after a Public Private Partnership Agreement signed in August 12. 2010.";
+
+/* Class = "UITextView"; text = "jseferi@limakkosovo.aero Office: 00381(0)385015023292"; ObjectID = "77u-Z2-0MT"; */
+"77u-Z2-0MT.text" = "jseferi@limakkosovo.aero Office: 00381(0)385015023292";
+
+/* Class = "UITextView"; text = "Contacts"; ObjectID = "7AC-5M-YHt"; */
+"7AC-5M-YHt.text" = "Contacts";
+
+/* Class = "UILabel"; text = "Explore Airport"; ObjectID = "7Xo-Q1-Lwu"; */
+"7Xo-Q1-Lwu.text" = "Explore Airport";
+
+/* Class = "UITextView"; text = "Medical Care"; ObjectID = "8RE-pl-ZOd"; */
+"8RE-pl-ZOd.text" = "Medical Care";
+
+/* Class = "UIViewController"; title = "Main Storyboard"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Main Storyboard";
+
+/* Class = "UITextView"; text = "complains@limakkosovo.aero Office: 00381(0)385015021041        Cell: 00377(0)45811411"; ObjectID = "BaR-cD-HSR"; */
+"BaR-cD-HSR.text" = "complains@limakkosovo.aero Office: 00381(0)385015021041        Cell: 00377(0)45811411";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "D89-Pa-j5G"; */
+"D89-Pa-j5G.title" = "Item";
+
+/* Class = "UILabel"; text = "Destinations and Schedule"; ObjectID = "H3K-qD-JOa"; */
+"H3K-qD-JOa.text" = "Destinations and Schedule";
+
+/* Class = "UITableViewCell"; accessibilityIdentifier = "departureInfoCell"; ObjectID = "I2s-xi-dnD"; */
+"I2s-xi-dnD.accessibilityIdentifier" = "departureInfoCell";
+
+/* Class = "UITableViewCell"; accessibilityLabel = "departureInfoCell"; ObjectID = "I2s-xi-dnD"; */
+"I2s-xi-dnD.accessibilityLabel" = "departureInfoCell";
+
+/* Class = "UITableViewCell"; accessibilityIdentifier = "arrivalInfoCell"; ObjectID = "IM5-c7-QJe"; */
+"IM5-c7-QJe.accessibilityIdentifier" = "arrivalInfoCell";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JWy-kJ-OyV"; */
+"JWy-kJ-OyV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K8F-UJ-Ia4"; */
+"K8F-UJ-Ia4.text" = "Label";
+
+/* Class = "UITextView"; text = "security.teamleaders@limakkosovo.aero                                           Office: 00381(0)385015021362 Cell: 00377(0)45877316"; ObjectID = "LBY-oZ-fPK"; */
+"LBY-oZ-fPK.text" = "security.teamleaders@limakkosovo.aero                                           Office: 00381(0)385015021362 Cell: 00377(0)45877316";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LCN-HB-MdA"; */
+"LCN-HB-MdA.text" = "Label";
+
+/* Class = "UITextView"; text = "SLOT Coordination"; ObjectID = "M7M-Cw-ldw"; */
+"M7M-Cw-ldw.text" = "SLOT Coordination";
+
+/* Class = "UIViewController"; title = "Explore Airport"; ObjectID = "N49-vC-Y3a"; */
+"N49-vC-Y3a.title" = "Explore Airport";
+
+/* Class = "UITextView"; text = "Lost and Found"; ObjectID = "NVk-Pv-DqB"; */
+"NVk-Pv-DqB.text" = "Lost and Found";
+
+/* Class = "UITableViewCell"; accessibilityIdentifier = "arrivalInfoCell"; ObjectID = "NXn-ce-BGD"; */
+"NXn-ce-BGD.accessibilityIdentifier" = "arrivalInfoCell";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "Nl4-O2-ueh"; */
+"Nl4-O2-ueh.text" = "Information";
+
+/* Class = "UIViewController"; title = "Info"; ObjectID = "PJj-gL-Ipz"; */
+"PJj-gL-Ipz.title" = "Info";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "PcJ-2O-asn"; */
+"PcJ-2O-asn.text" = "News";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SFe-Mn-5Fh"; */
+"SFe-Mn-5Fh.text" = "Label";
+
+/* Class = "UITextView"; text = "CARGO"; ObjectID = "Slf-wY-SNU"; */
+"Slf-wY-SNU.text" = "CARGO";
+
+/* Class = "UIView"; accessibilityLabel = "Departure Flight Info"; ObjectID = "VIn-EJ-7iK"; */
+"VIn-EJ-7iK.accessibilityLabel" = "Departure Flight Info";
+
+/* Class = "UITextView"; text = "Information Desk"; ObjectID = "VQD-zl-YCM"; */
+"VQD-zl-YCM.text" = "Information Desk";
+
+/* Class = "UITabBarItem"; title = "Arrival"; ObjectID = "XgK-Zx-WIL"; */
+"XgK-Zx-WIL.title" = "Arrival";
+
+/* Class = "UITextView"; text = "Public Relations"; ObjectID = "Y16-zd-4sU"; */
+"Y16-zd-4sU.text" = "Public Relations";
+
+/* Class = "UIViewController"; title = "Services"; ObjectID = "b2W-wV-PxK"; */
+"b2W-wV-PxK.title" = "Services";
+
+/* Class = "UIButton"; normalTitle = "Explore Airport"; ObjectID = "bUD-CW-loh"; */
+"bUD-CW-loh.normalTitle" = "Explore Airport";
+
+/* Class = "UIViewController"; title = "News"; ObjectID = "bZI-fs-7YC"; */
+"bZI-fs-7YC.title" = "News";
+
+/* Class = "UIViewController"; title = "Arrival Info"; ObjectID = "cFC-if-x3y"; */
+"cFC-if-x3y.title" = "Arrival Info";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cic-yl-WaQ"; */
+"cic-yl-WaQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Destinations"; ObjectID = "e1N-5B-mfV"; */
+"e1N-5B-mfV.normalTitle" = "Destinations";
+
+/* Class = "UITextView"; text = "scheduleprn@limakkosovo.aero 00381(0)385015021170"; ObjectID = "eJI-cV-v6b"; */
+"eJI-cV-v6b.text" = "scheduleprn@limakkosovo.aero 00381(0)385015021170";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "elg-OZ-dXw"; */
+"elg-OZ-dXw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRS-uR-A89"; */
+"fRS-uR-A89.text" = "Label";
+
+/* Class = "UITextView"; text = "medicalservice@limakkosovo.aero Office: 00381(0)385015021331 Cell: 00377(0)45811192"; ObjectID = "g5A-47-1SQ"; */
+"g5A-47-1SQ.text" = "medicalservice@limakkosovo.aero Office: 00381(0)385015021331 Cell: 00377(0)45811192";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g9Q-7f-EAy"; */
+"g9Q-7f-EAy.text" = "Label";
+
+/* Class = "UITextView"; text = "Ready for the World!"; ObjectID = "ggY-Tq-Uh3"; */
+"ggY-Tq-Uh3.text" = "Ready for the World!";
+
+/* Class = "UITextView"; text = "vgara@limakkosovo.aero Office: 00381(0)385015021041"; ObjectID = "hBI-TZ-OTe"; */
+"hBI-TZ-OTe.text" = "vgara@limakkosovo.aero Office: 00381(0)385015021041";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hSc-wR-Ulq"; */
+"hSc-wR-Ulq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Twitter"; ObjectID = "hhc-Pj-za6"; */
+"hhc-Pj-za6.normalTitle" = "Twitter";
+
+/* Class = "UITextView"; text = "lost.found@limakkosovo.aero Office: 00381(0)385015021270 Office: 00381(0)385015021271"; ObjectID = "iPa-2c-SMc"; */
+"iPa-2c-SMc.text" = "lost.found@limakkosovo.aero Office: 00381(0)385015021270 Office: 00381(0)385015021271";
+
+/* Class = "UITextView"; text = "Services"; ObjectID = "in6-l1-bMN"; */
+"in6-l1-bMN.text" = "Services";
+
+/* Class = "UITextView"; text = "The Management of Prishtina International Airport is commited to offer the best services to its costumers according to International Standards of Safety and Security"; ObjectID = "j3g-Lj-uva"; */
+"j3g-Lj-uva.text" = "The Management of Prishtina International Airport is commited to offer the best services to its costumers according to International Standards of Safety and Security";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j7D-kO-vp3"; */
+"j7D-kO-vp3.text" = "Label";
+
+/* Class = "UILabel"; text = "Flight Info"; ObjectID = "jUw-Rr-sEv"; */
+"jUw-Rr-sEv.text" = "Flight Info";
+
+/* Class = "UITextView"; text = "information@limakkosovo.aero Office: 00381(0)385015021214"; ObjectID = "kLd-Vw-Bg4"; */
+"kLd-Vw-Bg4.text" = "information@limakkosovo.aero Office: 00381(0)385015021214";
+
+/* Class = "UITextView"; text = "Limak Holding which is in consortium with Aeroports de Lyon is one of the leading companies known worldwide in different sectors beside the aviation such as investments, construction, tourism, energy, cement and food. It currently operates Sabiha Gokcen International Airport in Turkey whereas Aeroports de LYon is known for operational services of the airport. It currently operates and managed Aeroport de Lyon in France."; ObjectID = "kia-1S-fnp"; */
+"kia-1S-fnp.text" = "Limak Holding which is in consortium with Aeroports de Lyon is one of the leading companies known worldwide in different sectors beside the aviation such as investments, construction, tourism, energy, cement and food. It currently operates Sabiha Gokcen International Airport in Turkey whereas Aeroports de LYon is known for operational services of the airport. It currently operates and managed Aeroport de Lyon in France.";
+
+/* Class = "UITextView"; text = "Company Profile"; ObjectID = "lLC-Fq-U7C"; */
+"lLC-Fq-U7C.text" = "Company Profile";
+
+/* Class = "UITextView"; text = "The schedule coordination/facilitation of LIMAK Kosovo Int’l Airport-LKIA unit is ensuring the most efficient use of airport infrastructure of Prishtina International Airport “Adem Jashari” (PRN) in order to maximize benefits to the greatest number of airport users.\n
+
+\nPrishtina International Airport operate 7/24. In case of performing ad-hoc flights, airport services must be paid on cash (Euro) or via credit card (VISA, MASTER, MAESTRO)."; ObjectID = "lU7-Di-e5Z"; */
+"lU7-Di-e5Z.text" = "The schedule coordination/facilitation of LIMAK Kosovo Int’l Airport-LKIA unit is ensuring the most efficient use of airport infrastructure of Prishtina International Airport “Adem Jashari” (PRN) in order to maximize benefits to the greatest number of airport users.\n
+
+\nPrishtina International Airport operate 7/24. In case of performing ad-hoc flights, airport services must be paid on cash (Euro) or via credit card (VISA, MASTER, MAESTRO).";
+
+/* Class = "UITabBarController"; title = "Flight Info"; ObjectID = "mSM-46-3eh"; */
+"mSM-46-3eh.title" = "Flight Info";
+
+/* Class = "UIButton"; normalTitle = "News"; ObjectID = "mis-2I-M4G"; */
+"mis-2I-M4G.normalTitle" = "News";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nKO-h7-59i"; */
+"nKO-h7-59i.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nzz-0w-sNq"; */
+"nzz-0w-sNq.text" = "Label";
+
+/* Class = "UITextView"; text = "Security"; ObjectID = "pQt-SK-vTd"; */
+"pQt-SK-vTd.text" = "Security";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q9g-sF-d5i"; */
+"q9g-sF-d5i.text" = "Label";
+
+/* Class = "UITextView"; text = "Complaints Handling"; ObjectID = "qnc-KH-484"; */
+"qnc-KH-484.text" = "Complaints Handling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sxn-AH-4ye"; */
+"sxn-AH-4ye.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Departure"; ObjectID = "waQ-s9-JcH"; */
+"waQ-s9-JcH.title" = "Departure";
+
+/* Class = "UITextView"; text = "The consortium Limak and Aeroports de Lyon will manage and operate Prishtina International Airport \"Adem Jashari\" 20 years from the date of agreement by totally transferring all it's assets to the Government of Kosovo after this period of time is over."; ObjectID = "xgi-FD-cqK"; */
+"xgi-FD-cqK.text" = "The consortium Limak and Aeroports de Lyon will manage and operate Prishtina International Airport \"Adem Jashari\" 20 years from the date of agreement by totally transferring all it's assets to the Government of Kosovo after this period of time is over.";
+
+/* Class = "UIButton"; normalTitle = "insta"; ObjectID = "xiR-RA-nzN"; */
+"xiR-RA-nzN.normalTitle" = "insta";
+
+/* Class = "UITextView"; text = "Since then it has built and construct the new terminal of 42.000 meters square with its connected buildings by using the latest technology in the market. "; ObjectID = "yXU-1z-zCX"; */
+"yXU-1z-zCX.text" = "Since then it has built and construct the new terminal of 42.000 meters square with its connected buildings by using the latest technology in the market. ";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "ypn-xv-k5r"; */
+"ypn-xv-k5r.normalTitle" = "Facebook";
